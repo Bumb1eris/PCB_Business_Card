@@ -6,7 +6,7 @@ A business card you can play: a tilt-controlled Snake game on a 7×5 LED matrix,
 
 ## Why I built it
 
-I designed this card to hand out at [EXPO NAME], the largest tech expo in the Baltics. A paper card gets thrown away. A card that plays Snake gets passed around.
+I designed this card to hand out at TechIndustry, the largest tech expo in the Baltics. A paper card gets thrown away. A card that plays Snake gets passed around.
 
 The original idea was a fluid simulation, but on a 7×5 matrix it just looked like random blinking, so it became Snake instead.
 
@@ -40,7 +40,7 @@ The LEDs are rotated 45°. Together with the transistor array underneath, the ma
 ## Battery life
 
 - **Switched on:** about 3 days of continuous use
-- **Switched off:** several months to a year in storage
+- **Switched off:** about a year or two in storage
 
 ## Firmware
 
