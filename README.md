@@ -74,4 +74,4 @@ images/
 
 ## License
 
-Hardware: [CERN-OHL-P v2](https://ohwr.org/cern_ohl_p_v2.txt) · Firmware: MIT
+Hardware/Firmware: MIT
