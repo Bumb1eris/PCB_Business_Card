@@ -56,13 +56,13 @@ Written in the Arduino IDE. The ATtiny1616 is programmed over UPDI, using an Ard
 ## Repository structure
 
 ```
+firmware/
+  snake/          Arduino sketch
 hardware/
   kicad/          KiCad project files
   schematic.pdf
   gerbers/        ready to send to a fab
   bom.csv
-firmware/
-  snake/          Arduino sketch
 images/
 ```
 
